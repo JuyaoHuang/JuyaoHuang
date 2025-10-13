@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   src="https://github.com/JuyaoHuang/JuyaoHuang/blob/output/github-snake.svg">
   </picture>
 
-## Tech Stack
+## 🛠️Tech Stack
 <p align="left">
   <!-- python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
