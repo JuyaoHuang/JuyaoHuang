@@ -32,10 +32,10 @@ jobs:
           # 你的 GitHub 用户名
           github_user_name: JuyaoHuang
 
-          # 生成多种样式的贪吃蛇动画 - 粉红色主题
+          # 生成多种样式的贪吃蛇动画
           outputs: |
-              dist/github-snake.svg?color_snake=#ff1493&color_dots=#ffe6f0,#ffb3d9,#ff80bf,#ff4da6,#ff1a8c
-              dist/github-snake-dark.svg?color_snake=#ff69b4&color_dots=#4d1f3a,#802952,#b33771,#e64590,#ff69b4
+              dist/github-snake.svg?color_snake=#00c853&color_dots=#e8f5e9,#a5d6a7,#66bb6a,#43a047,#2e7d32
+              dist/github-snake-dark.svg?color_snake=#69f0ae&color_dots=#1b5e20,#2e7d32,#43a047,#66bb6a,#81c784
 
 
       # 第三步：将生成的文件推送到你的仓库
