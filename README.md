@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <img alt="github contribution grid snake animation"
   src="https://github.com/JuyaoHuang/JuyaoHuang/blob/output/github-snake.svg">
   </picture>
-  
+
 ## Tech Stack
 <p align="left">
   <!-- python -->
@@ -53,11 +53,11 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
   </a>
   <!-- numpy -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/>
   </a>  
  <!-- pandas  -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
   </a>     
   <!-- javascript -->
