@@ -51,3 +51,18 @@
 
   # 自定义十六进制颜色
   dist/custom.svg?color_snake=#ff1493  # 粉红色
+
+  📚 组合方式解释
+
+  每一行 dist/xxx.svg 都会生成一个独立的文件：
+
+  outputs: |
+    dist/github-snake.svg                          # 文件1：默认亮色
+    dist/github-snake-dark.svg?palette=github-dark # 文件2：默认暗色
+    dist/green-snake.svg?color_snake=green         # 文件3：绿色蛇
+    dist/purple-snake.svg?color_snake=purple       # 文件4：紫色蛇
+    dist/red-snake.gif?color_snake=red             # 文件5：红色蛇GIF
+
+  - 文件名：dist/ 后面的部分（如 github-snake.svg）
+  - 参数：? 后面的部分用于自定义颜色
+  - 多个参数：用 & 连接（如 ?color_snake=red&color_dots=#fff）
