@@ -20,11 +20,7 @@ Here are some ideas to get you started:
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave)
 
  <picture>
-    <source media="(prefers-color-scheme: dark)"
-  srcset="https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)"
   srcset="https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/output/github-snake.svg">
-    <img alt="github contribution grid snake animation"
-  src="https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/output/github-snake.svg">
   </picture>
 
