@@ -1,17 +1,25 @@
 # GitHub Action 的名称
 name: Generate Snake Animation
 
+# 触发条件
 on:
+  # 允许你从 Action 标签页手动运行此工作流程
   workflow_dispatch:
+  # 定时触发：这里设置为每12小时运行一次
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */12 * * *" # cron 表达式
 
+# 任务
 jobs:
   build:
     name: Jobs to update snake animation
     runs-on: ubuntu-latest
+    
+    # --- 新增的权限设置 ---
+    # 为此任务授予对仓库内容的写入权限
     permissions:
-      contents: write # 授予写入权限
+      contents: write
+    # ---------------------
 
     steps:
       # 第一步：检出你的仓库代码
@@ -21,18 +29,22 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
+          # 你的 GitHub 用户名
           github_user_name: JuyaoHuang
-          outputs: dist/github-snake-dark.svg?palette=github-dark
 
-      # 第三步：使用标准的 git 命令来提交文件 (更安全！)
-      - name: Push snake animation
-        run: |
-          # 配置 git 用户
-          git config --local user.email "action@github.com"
-          git config --local user.name "github-actions[bot]"
-          # 添加生成的文件
-          git add dist/github-snake-dark.svg
-          # 提交更改，如果文件没有变化则不会报错
-          git commit -m "Generate new snake animation" || exit 0
-          # 推送到 main 分支
-          git push
+          # 生成多种样式的贪吃蛇动画
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # 第三步：将生成的文件推送到你的仓库
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          # 要推送的分支
+          target_branch: output
+          # 构建结果所在的目录
+          build_dir: dist
+        env:
+          # GitHub Token，现在它拥有了写入权限
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
