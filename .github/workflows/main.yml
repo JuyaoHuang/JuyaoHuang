@@ -1,0 +1,38 @@
+# GitHub Action 的名称
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"
+
+jobs:
+  build:
+    name: Jobs to update snake animation
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 授予写入权限
+
+    steps:
+      # 第一步：检出你的仓库代码
+      - uses: actions/checkout@v3
+
+      # 第二步：运行贪吃蛇生成器
+      - uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: JuyaoHuang
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+
+      # 第三步：使用标准的 git 命令来提交文件 (更安全！)
+      - name: Push snake animation
+        run: |
+          # 配置 git 用户
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          # 添加生成的文件
+          git add dist/github-snake-dark.svg
+          # 提交更改，如果文件没有变化则不会报错
+          git commit -m "Generate new snake animation" || exit 0
+          # 推送到 main 分支
+          git push
