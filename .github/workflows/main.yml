@@ -34,8 +34,8 @@ jobs:
 
           # 生成多种样式的贪吃蛇动画
           outputs: |
-              dist/github-snake.svg?color_snake=#00c853&color_dots=#e8f5e9,#a5d6a7,#66bb6a,#43a047,#2e7d32
-              dist/github-snake-dark.svg?color_snake=#69f0ae&color_dots=#1b5e20,#2e7d32,#43a047,#66bb6a,#81c784
+              dist/github-snake.svg?color_snake=#00e676&color_dots=#e0f2f1,#80cbc4,#4db6ac,#26a69a,#00897b
+              dist/github-snake-dark.svg?color_snake=#00e676&color_dots=#e0f2f1,#80cbc4,#4db6ac,#26a69a,#00897b
 
 
       # 第三步：将生成的文件推送到你的仓库
