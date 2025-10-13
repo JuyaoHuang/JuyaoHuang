@@ -1,0 +1,53 @@
+修改蛇的颜色方法
+
+  方法 1：使用预设调色板
+
+  修改 main.yml 中的 outputs 行：
+
+  outputs: |
+    dist/github-snake.svg?palette=github-light
+    dist/github-snake-dark.svg?palette=github-dark
+
+  可用的预设调色板：
+  - github - GitHub 默认主题
+  - github-light - GitHub 亮色主题
+  - github-dark - GitHub 暗色主题
+
+  方法 2：自定义颜色
+
+  使用 color_snake 和 color_dots 参数：
+
+  outputs: |
+    dist/github-snake.svg?color_snake=#00ff00&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+    dist/github-snake-dark.svg?palette=github-dark
+    dist/custom.gif?color_snake=red&color_dots=#ff9999,#ff6666,#ff3333,#ff0000,#cc0000
+
+  参数说明：
+  - color_snake - 贪吃蛇的颜色（支持颜色名或十六进制）
+  - color_dots - 贡献点的颜色（5个颜色值，从少到多）
+
+  方法 3：完整自定义示例
+
+  outputs: |
+    dist/github-snake.svg
+    dist/github-snake-dark.svg?palette=github-dark
+    dist/green-snake.svg?color_snake=green&color_dots=#c6e48b,#7bc96f,#49af5d,#2e8840,#196127
+    dist/purple-snake.svg?color_snake=purple&color_dots=#ebedf0,#c6c6ff,#9999ff,#6666ff,#3333ff
+    dist/red-snake.gif?color_snake=red&color_dots=#ffebe9,#ff9999,#ff6666,#ff3333,#cc0000
+
+  常用颜色示例
+
+  # 绿色蛇
+  dist/green.svg?color_snake=green
+
+  # 蓝色蛇
+  dist/blue.svg?color_snake=blue
+
+  # 红色蛇
+  dist/red.svg?color_snake=red
+
+  # 橙色蛇（当前的 ocean.gif）
+  dist/orange.svg?color_snake=orange
+
+  # 自定义十六进制颜色
+  dist/custom.svg?color_snake=#ff1493  # 粉红色
