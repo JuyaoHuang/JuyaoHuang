@@ -29,4 +29,6 @@ Here are some ideas to get you started:
     <img alt="github contribution grid snake animation"
   src="https://github.com/JuyaoHuang/JuyaoHuang/blob/output/github-snake.svg">
   </picture>
-
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
