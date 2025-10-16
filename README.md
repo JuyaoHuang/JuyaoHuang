@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github-readme-stats.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave)
+![alt text](https://github-readme-stats.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave&cache_seconds=1)
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave)
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave&cache_seconds=1)
 
 ## 🐍contributing snake🐍
  <!-- 可以根据用户的系统主题（亮色/暗色）自动切换不同风格的贪吃蛇动画 -->
