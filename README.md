@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![alt text](https://github-readme-stats.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave)
 
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave)
+[![](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 
 ## 🐍contributing snake🐍
  <!-- 可以根据用户的系统主题（亮色/暗色）自动切换不同风格的贪吃蛇动画 -->
