@@ -19,13 +19,6 @@ Here are some ideas to get you started:
 <img src="./muzimi.png" alt="muzimi">
 </div>
 
-<div align="center">
-  <img src="./github-stats.svg?v=2025" alt="GitHub Stats" />
-  <br/>
-  <img src="./top-langs.svg?v=2025" alt="Top Langs" />
-</div>
-
-
 ## contributing snake🐍🐍
  <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -36,6 +29,11 @@ Here are some ideas to get you started:
   src="https://github.com/JuyaoHuang/JuyaoHuang/blob/output/github-snake.svg">
   </picture>
 
+<div align="center">
+  <img src="./github-stats.svg?v=2025" alt="GitHub Stats" />
+  <br/>
+  <img src="./top-langs.svg?v=2025" alt="Top Langs" />
+</div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2025%20mins-blue)
