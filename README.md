@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="./github-stats.svg" alt="GitHub Stats" />
+  <img src="./github-stats.svg?v=2025" alt="GitHub Stats" />
   <br/>
-  <img src="./top-langs.svg" alt="Top Langs" />
+  <img src="./top-langs.svg?v=2025" alt="Top Langs" />
 </div>
 
 
