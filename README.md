@@ -36,6 +36,70 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.9%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 480.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 11 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                25 commits          ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌆 Daytime                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+🌃 Evening                52 commits          ███████████████░░░░░░░░░░   59.09 % 
+🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Tuesday                  22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Sunday                   17 commits          █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   6 repos             ███████████████████░░░░░░   75.00 % 
+Astro                    2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/12/2025 02:54:19 UTC
 <!--END_SECTION:waka-->
 
 
