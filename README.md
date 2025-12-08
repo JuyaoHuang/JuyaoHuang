@@ -30,8 +30,8 @@ Here are some ideas to get you started:
   </picture>
 
 <div align="center">
-  <img src="./github-stats.svg?v=2025" alt="GitHub Stats" />
-  <img src="./top-langs.svg?v=2025" alt="Top Langs" style="zoom:118.5%"/>
+  <img src="./github-stats.svg?v=2025" width="420" alt="GitHub Stats" />
+  <img src="./top-langs.svg?v=2025" width="320" alt="Top Langs" />
 </div>
 
 <!--START_SECTION:waka-->
