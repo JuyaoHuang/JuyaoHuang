@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+<img src="./muzimi.png" alt="muzimi">
+</div>
 
 <div align="center">
   <img src="./github-stats.svg?v=2025" alt="GitHub Stats" />
@@ -23,8 +26,7 @@ Here are some ideas to get you started:
 </div>
 
 
-## 🐍contributing snake🐍
- <!-- 可以根据用户的系统主题（亮色/暗色）自动切换不同风格的贪吃蛇动画 -->
+## contributing snake🐍🐍
  <picture>
     <source media="(prefers-color-scheme: dark)"
   srcset="https://github.com/JuyaoHuang/JuyaoHuang/blob/output/github-snake-dark.svg">
