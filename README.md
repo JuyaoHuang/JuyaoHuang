@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-112-blue)
 
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 > 📦 480.7 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2025
+> 🏆 91 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -57,21 +57,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                25 commits          ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-🌆 Daytime                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-🌃 Evening                52 commits          ███████████████░░░░░░░░░░   59.09 % 
-🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+🌞 Morning                26 commits          ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+🌆 Daytime                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+🌃 Evening                52 commits          ███████████████░░░░░░░░░░   58.43 % 
+🌙 Night                  6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   29 commits          ████████░░░░░░░░░░░░░░░░░   32.95 % 
-Tuesday                  22 commits          ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-Sunday                   17 commits          █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Monday                   30 commits          ████████░░░░░░░░░░░░░░░░░   33.71 % 
+Tuesday                  22 commits          ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Wednesday                2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Thursday                 9 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Friday                   5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Sunday                   17 commits          █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
 ```
 
 
@@ -94,12 +94,8 @@ Astro                    2 repos             ██████░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/JuyaoHuang/JuyaoHuang/main/assets/bar_graph.png)
-
-
- Last Updated on 08/12/2025 02:54:19 UTC
+ Last Updated on 08/12/2025 03:08:37 UTC
 <!--END_SECTION:waka-->
 
 
