@@ -1,0 +1,40 @@
+name: Update Readme Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate-images:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Images from Private Vercel
+        run: |
+          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave" -o github-stats.svg
+          
+          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" -o top-langs.svg
+
+      - name: Commit and Push changes
+        run: |
+          # 配置 Git 提交身份 (使用官方 Bot 身份)
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # 检查文件是否有变化 (防止无变化时提交报错)
+          if [[ -n $(git status -s) ]]; then
+            git add github-stats.svg top-langs.svg
+            git commit -m "Update GitHub Stats images"
+            git push
+            echo "✅ Images updated and pushed successfully."
+          else
+            echo "⚡ No changes detected in stats, skipping push."
+          fi
+
+
