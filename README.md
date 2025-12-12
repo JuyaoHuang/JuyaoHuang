@@ -35,15 +35,13 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-310-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-318-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 490.0 kB Used in GitHub's Storage 
+> 📦 490.2 kB Used in GitHub's Storage 
  > 
 > 🏆 126 Contributions in the Year 2025
  > 
@@ -53,42 +51,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                35 commits          ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-🌆 Daytime                21 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌃 Evening                62 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   41 commits          ████████░░░░░░░░░░░░░░░░░   33.06 % 
-Tuesday                  29 commits          ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Thursday                 13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.56 % 
-Markdown                 5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
-YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████░░░░░░░░░░░░   50.88 % 
-PyCharm                  7 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.12 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -99,7 +61,7 @@ Astro                    2 repos             ██████░░░░░�
 
 
 
- Last Updated on 12/12/2025 11:03:02 UTC
+ Last Updated on 12/12/2025 12:31:28 UTC
 <!--END_SECTION:waka-->
 
 
