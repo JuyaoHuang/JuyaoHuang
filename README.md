@@ -78,15 +78,15 @@ Sunday                   17 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 23 mins      ███████████░░░░░░░░░░░░░░   44.40 % 
-Python                   8 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
-HTML                     3 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-YAML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Python                   6 hrs 59 mins       ████████████░░░░░░░░░░░░░   48.56 % 
+Markdown                 5 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.67 % 
+YAML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+GitIgnore file           13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 19 mins      █████████████████░░░░░░░░   67.48 % 
-PyCharm                  8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+VS Code                  7 hrs 19 mins       █████████████░░░░░░░░░░░░   50.88 % 
+PyCharm                  7 hrs 4 mins        ████████████░░░░░░░░░░░░░   49.12 % 
 ```
 
 **I Mostly Code in Python** 
@@ -99,7 +99,7 @@ Astro                    2 repos             ██████░░░░░�
 
 
 
- Last Updated on 12/12/2025 10:58:27 UTC
+ Last Updated on 12/12/2025 11:03:02 UTC
 <!--END_SECTION:waka-->
 
 
