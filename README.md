@@ -35,15 +35,15 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-341-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-339-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-185.8%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 504.8 kB Used in GitHub's Storage 
+> 📦 506.5 kB Used in GitHub's Storage 
  > 
 > 🏆 133 Contributions in the Year 2025
  > 
@@ -56,21 +56,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                36 commits          ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-🌆 Daytime                22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-🌃 Evening                66 commits          █████████████░░░░░░░░░░░░   50.77 % 
-🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+🌞 Morning                36 commits          ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+🌆 Daytime                23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+🌃 Evening                74 commits          █████████████░░░░░░░░░░░░   53.24 % 
+🌙 Night                  6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   41 commits          ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Tuesday                  30 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-Sunday                   22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Monday                   41 commits          ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Tuesday                  30 commits          █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+Wednesday                9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+Thursday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Friday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Sunday                   31 commits          ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
 ```
 
 
@@ -100,7 +100,7 @@ Jupyter Notebook         1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 14/12/2025 12:28:04 UTC
+ Last Updated on 14/12/2025 14:33:50 UTC
 <!--END_SECTION:waka-->
 
 
