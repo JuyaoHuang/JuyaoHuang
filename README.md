@@ -76,15 +76,15 @@ Sunday                   41 commits          █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   22 hrs 55 mins      ███████████░░░░░░░░░░░░░░   45.72 % 
-Markdown                 21 hrs 17 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
-JavaScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-C++                      1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-CMake                    44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Markdown                 23 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.65 % 
+Python                   19 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   38.34 % 
+CMake                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+JavaScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🔥 Editors: 
-VS Code                  30 hrs 20 mins      ███████████████░░░░░░░░░░   60.52 % 
-PyCharm                  19 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   39.48 % 
+VS Code                  34 hrs 31 mins      █████████████████░░░░░░░░   68.51 % 
+PyCharm                  15 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   31.49 % 
 ```
 
 **I Mostly Code in Python** 
@@ -100,7 +100,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 01:07:04 UTC
+ Last Updated on 17/12/2025 01:09:06 UTC
 <!--END_SECTION:waka-->
 
 
