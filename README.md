@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-74%20hrs%2047%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-465-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
@@ -78,15 +76,15 @@ Sunday                   41 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 23 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.59 % 
-Python                   17 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   36.03 % 
-CMake                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JavaScript               1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Markdown                 14 hrs 22 mins      ███████████░░░░░░░░░░░░░░   43.49 % 
+Python                   12 hrs 1 min        █████████░░░░░░░░░░░░░░░░   36.36 % 
+CMake                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-VS Code                  35 hrs 18 mins      ██████████████████░░░░░░░   73.44 % 
-PyCharm                  12 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+VS Code                  23 hrs 42 mins      ██████████████████░░░░░░░   71.73 % 
+PyCharm                  9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +100,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2025 01:11:50 UTC
+ Last Updated on 19/12/2025 01:38:33 UTC
 <!--END_SECTION:waka-->
 
 
