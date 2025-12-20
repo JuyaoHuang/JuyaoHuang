@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-481-blue)
 
@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 542.5 kB Used in GitHub's Storage 
+> 📦 542.7 kB Used in GitHub's Storage 
  > 
-> 🏆 216 Contributions in the Year 2025
+> 🏆 220 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +56,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-🌆 Daytime                67 commits          ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-🌃 Evening                142 commits         █████████████░░░░░░░░░░░░   52.40 % 
-🌙 Night                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+🌞 Morning                47 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+🌆 Daytime                67 commits          ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌃 Evening                144 commits         █████████████░░░░░░░░░░░░   52.55 % 
+🌙 Night                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   69 commits          ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
-Tuesday                  74 commits          ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   23 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Sunday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.13 % 
+Monday                   69 commits          ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Tuesday                  74 commits          ███████░░░░░░░░░░░░░░░░░░   27.01 % 
+Wednesday                33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Thursday                 27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Saturday                 5 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Sunday                   41 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
 ```
 
 
@@ -78,15 +78,15 @@ Sunday                   41 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 14 hrs 22 mins      ███████████░░░░░░░░░░░░░░   43.49 % 
-Python                   12 hrs 1 min        █████████░░░░░░░░░░░░░░░░   36.36 % 
-CMake                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+Markdown                 14 hrs 43 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
+Python                   11 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   34.40 % 
+CMake                    1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+C++                      1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 42 mins      ██████████████████░░░░░░░   71.73 % 
-PyCharm                  9 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+VS Code                  26 hrs 35 mins      ████████████████████░░░░░   79.89 % 
+PyCharm                  6 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2025 12:30:21 UTC
+ Last Updated on 20/12/2025 01:07:10 UTC
 <!--END_SECTION:waka-->
 
 
