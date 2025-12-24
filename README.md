@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2028%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-68%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-272-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-263-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -78,15 +78,15 @@ Sunday                   47 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   19 hrs 4 mins       ███████████████░░░░░░░░░░   60.48 % 
-Markdown                 9 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.17 % 
-CMake                    1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Ezhil                    41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-HTML                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Python                   20 hrs 14 mins      ███████████████████░░░░░░   74.63 % 
+Markdown                 5 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Ezhil                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 33 mins      ██████████████░░░░░░░░░░░   55.68 % 
-PyCharm                  13 hrs 58 mins      ███████████░░░░░░░░░░░░░░   44.32 % 
+PyCharm                  15 hrs 16 mins      ██████████████░░░░░░░░░░░   56.30 % 
+VS Code                  11 hrs 51 mins      ███████████░░░░░░░░░░░░░░   43.70 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2025 16:14:15 UTC
+ Last Updated on 24/12/2025 00:50:36 UTC
 <!--END_SECTION:waka-->
 
 
