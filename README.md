@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-212-blue)
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 > 📦 582.6 kB Used in GitHub's Storage 
  > 
-> 🏆 286 Contributions in the Year 2025
+> 🏆 288 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,21 +56,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                77 commits          ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌃 Evening                153 commits         ████████████░░░░░░░░░░░░░   50.00 % 
-🌙 Night                  28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+🌞 Morning                48 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+🌆 Daytime                77 commits          ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
+🌃 Evening                153 commits         ████████████░░░░░░░░░░░░░   49.84 % 
+🌙 Night                  29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   66 commits          █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Tuesday                  72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-Wednesday                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Thursday                 56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Saturday                 11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Sunday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Monday                   66 commits          █████░░░░░░░░░░░░░░░░░░░░   21.50 % 
+Tuesday                  72 commits          ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Wednesday                31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Thursday                 56 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Friday                   31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Saturday                 12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Sunday                   39 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
 ```
 
 
@@ -78,15 +78,15 @@ Sunday                   39 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   20 hrs 56 mins      ███████████████░░░░░░░░░░   61.06 % 
-Markdown                 8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-C++                      1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Ezhil                    1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Bash                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Python                   19 hrs 36 mins      ███████████████░░░░░░░░░░   60.51 % 
+Markdown                 7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
+C++                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Ezhil                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 1 min        █████████████░░░░░░░░░░░░   52.57 % 
-PyCharm                  16 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.43 % 
+PyCharm                  16 hrs 47 mins      █████████████░░░░░░░░░░░░   51.82 % 
+VS Code                  15 hrs 36 mins      ████████████░░░░░░░░░░░░░   48.18 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2025 16:12:40 UTC
+ Last Updated on 27/12/2025 00:48:35 UTC
 <!--END_SECTION:waka-->
 
 
