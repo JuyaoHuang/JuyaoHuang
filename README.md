@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<img src="./ai.jpg" alt="muzimi">
+<img src="./1.png" alt="atri">
 </div>
 
 ## contributing snake🐍🐍
