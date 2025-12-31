@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2040%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-131-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -78,15 +78,15 @@ Sunday                   41 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 12 hrs 24 mins      ███████████░░░░░░░░░░░░░░   43.36 % 
-Python                   10 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   37.59 % 
-C++                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-Ezhil                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+Markdown                 11 hrs 32 mins      ███████████░░░░░░░░░░░░░░   44.39 % 
+Python                   9 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   35.14 % 
+C++                      2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 55 mins      █████████████████░░░░░░░░   69.65 % 
-PyCharm                  8 hrs 40 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
+VS Code                  18 hrs 27 mins      ██████████████████░░░░░░░   70.99 % 
+PyCharm                  7 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   29.01 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 30/12/2025 16:14:05 UTC
+ Last Updated on 31/12/2025 00:52:21 UTC
 <!--END_SECTION:waka-->
 
 
