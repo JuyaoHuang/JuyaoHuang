@@ -37,7 +37,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-94%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.16%20million%20lines%20of%20code-blue)
 
@@ -53,6 +55,42 @@ Here are some ideas to get you started:
  > 
 > 🔑 1 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                61 commits          █████░░░░░░░░░░░░░░░░░░░░   18.21 % 
+🌆 Daytime                83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌃 Evening                161 commits         ████████████░░░░░░░░░░░░░   48.06 % 
+🌙 Night                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Tuesday                  83 commits          ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Wednesday                32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Thursday                 58 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Friday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Saturday                 18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+Sunday                   41 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 23 mins       █████████████░░░░░░░░░░░░   50.88 % 
+Python                   3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.20 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Text                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+TypeScript               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+
+🔥 Editors: 
+VS Code                  5 hrs 58 mins       ██████████████░░░░░░░░░░░   56.41 % 
+PyCharm                  4 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.59 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +104,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 16:13:01 UTC
+ Last Updated on 03/01/2026 00:47:48 UTC
 <!--END_SECTION:waka-->
 
 
