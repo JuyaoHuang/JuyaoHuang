@@ -37,17 +37,17 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.19%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 602.6 kB Used in GitHub's Storage 
+> 📦 608.7 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 50 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -58,21 +58,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-🌃 Evening                201 commits         ████████████░░░░░░░░░░░░░   48.79 % 
-🌙 Night                  45 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+🌞 Morning                67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌆 Daytime                95 commits          ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+🌃 Evening                197 commits         ████████████░░░░░░░░░░░░░   48.17 % 
+🌙 Night                  50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   76 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Tuesday                  99 commits          ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
-Wednesday                39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Thursday                 69 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Friday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Saturday                 30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Sunday                   50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Monday                   73 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Tuesday                  98 commits          ██████░░░░░░░░░░░░░░░░░░░   23.96 % 
+Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Thursday                 77 commits          █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+Friday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
 ```
 
 
@@ -80,28 +80,30 @@ Sunday                   50 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 36 mins       █████████████████████████   99.77 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 7 hrs 37 mins       ███████████████░░░░░░░░░░   61.90 % 
+TypeScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Astro                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             ███████████████░░░░░░░░░░   61.54 % 
-Astro                    2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   8 repos             █████████████░░░░░░░░░░░░   53.33 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+MDX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 
 
 
 
- Last Updated on 14/01/2026 16:16:36 UTC
+ Last Updated on 15/01/2026 00:49:46 UTC
 <!--END_SECTION:waka-->
 
 
