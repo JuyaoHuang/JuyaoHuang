@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yu Zihan's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 265, Total Commits  (last year) : 235, Total PRs: 55, Total Issues: 53, Contributed to (last year): 6</desc>
+        <desc id="descId">Total Stars Earned: 265, Total Commits  (last year) : 238, Total PRs: 55, Total Issues: 53, Contributed to (last year): 6</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 97.18655374252126;
+        stroke-dashoffset: 97.0057022103517;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >235</text>
+      >238</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
