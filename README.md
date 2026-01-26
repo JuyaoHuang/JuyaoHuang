@@ -80,14 +80,14 @@ Sunday                   66 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.37 % 
-JSON                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-Astro                    1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-JavaScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Markdown                 2 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
+JSON                     1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+JavaScript               1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+TypeScript               51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Astro                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ MDX                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2026 16:13:13 UTC
+ Last Updated on 26/01/2026 00:57:57 UTC
 <!--END_SECTION:waka-->
 
 
