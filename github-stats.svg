@@ -8,7 +8,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Juyao Huang's GitHub Stats, Rank: B+</title>
+        <title id="titleId">Juyao Huang's GitHub Stats, Rank: A-</title>
         <desc id="descId">Total Stars Earned: 266, Total Commits  (last year) : 257, Total PRs: 58, Total Issues: 55, Contributed to (last year): 6</desc>
         <style>
           .header {
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 94.3985546282091;
+        stroke-dashoffset: 93.05599366513654;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
+          A-
         </text>
       
         </g>
