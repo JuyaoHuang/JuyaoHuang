@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2030%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.32%20million%20lines%20of%20code-blue?style=flat)
@@ -78,14 +80,14 @@ Sunday                   69 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 25 mins        █████████░░░░░░░░░░░░░░░░   36.46 % 
-Bash                     59 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Astro                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-ActionScript             9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+Markdown                 1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Bash                     1 hr                ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Python                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+ActionScript             17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Astro                    15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +103,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 16:15:47 UTC
+ Last Updated on 02/02/2026 01:03:59 UTC
 <!--END_SECTION:waka-->
 
 
