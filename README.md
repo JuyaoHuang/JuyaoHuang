@@ -80,14 +80,13 @@ Sunday                   69 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   18 mins             ████████████░░░░░░░░░░░░░   47.52 % 
-Markdown                 9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-ActionScript             7 mins              █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Bash                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Python                   18 mins             ██████████████████████░░░   87.63 % 
+Bash                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-VS Code                  39 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2026 16:17:09 UTC
+ Last Updated on 09/02/2026 01:06:33 UTC
 <!--END_SECTION:waka-->
 
 
