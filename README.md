@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-140%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -80,12 +80,13 @@ Sunday                   69 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     18 mins             ████████████████░░░░░░░░░   65.14 % 
-Markdown                 9 mins              ████████░░░░░░░░░░░░░░░░░   33.97 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Text                     19 mins             ██████████████░░░░░░░░░░░   56.82 % 
+Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.62 % 
+Ezhil                    4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/02/2026 16:48:57 UTC
+ Last Updated on 19/02/2026 01:05:50 UTC
 <!--END_SECTION:waka-->
 
 
