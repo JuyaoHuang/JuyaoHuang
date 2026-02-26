@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <img src="./1.png" alt="atri">
 </div>
 
-## End 2025, welcome to 2026!🤗
-
 ## contributing snake🐍🐍
  <picture>
     <source media="(prefers-color-scheme: dark)"
