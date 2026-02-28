@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 > 📦 614.6 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2026
+> 🏆 108 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,17 +91,17 @@ VS Code                  5 mins              ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
-JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Python                   9 repos             ████████████░░░░░░░░░░░░░   47.37 % 
+JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+MDX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 28/02/2026 08:15:52 UTC
+ Last Updated on 28/02/2026 16:14:11 UTC
 <!--END_SECTION:waka-->
 
 
