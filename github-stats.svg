@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Juyao Huang's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 253, Total Commits  (last year) : 317, Total PRs: 61, Total Issues: 57, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 253, Total Commits  (last year) : 320, Total PRs: 61, Total Issues: 57, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 85.2946014884642;
+        stroke-dashoffset: 85.15052790646331;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >317</text>
+      >320</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
