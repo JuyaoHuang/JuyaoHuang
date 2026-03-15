@@ -17,9 +17,9 @@ jobs:
 
       - name: Download Images from Private Vercel
         run: |
-          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave" -o github-stats.svg
+          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api?username=JuyaoHuang&show_icons=true&theme=synthwave&v=1" -o github-stats.svg
           
-          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave" -o top-langs.svg
+          curl "https://github-readme-stats-iota-hazel-23.vercel.app/api/top-langs/?username=JuyaoHuang&size_weight=0.5&count_weight=0.5&layout=compact&theme=synthwave&v=1" -o top-langs.svg
 
       - name: Commit and Push changes
         run: |
