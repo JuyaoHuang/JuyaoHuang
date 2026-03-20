@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2015%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-94-blue?style=flat)
 
@@ -78,15 +78,15 @@ Sunday                   73 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.23 % 
-Bash                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-TypeScript               34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Ezhil                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Markdown                 3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.96 % 
+Text                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Bash                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+YAML                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Ezhil                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   99.33 % 
-PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+VS Code                  7 hrs 52 mins       █████████████████████████   99.41 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2026 16:44:54 UTC
+ Last Updated on 20/03/2026 01:04:03 UTC
 <!--END_SECTION:waka-->
 
 
