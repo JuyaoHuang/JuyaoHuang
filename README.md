@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue?style=flat)
 
@@ -78,21 +78,21 @@ Sunday                   76 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 6 hrs 32 mins       ██████████████░░░░░░░░░░░   57.83 % 
-Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
-Text                     56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-TypeScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Markdown                 6 hrs 21 mins       ██████████████░░░░░░░░░░░   57.88 % 
+Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+YAML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+Text                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 53 mins      ████████████████████████░   96.24 % 
-PyCharm                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+VS Code                  10 hrs 33 mins      ████████████████████████░   96.12 % 
+PyCharm                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            █████████████░░░░░░░░░░░░   52.38 % 
+Python                   10 repos            ████████████░░░░░░░░░░░░░   47.62 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
@@ -102,7 +102,7 @@ MDX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2026 16:52:21 UTC
+ Last Updated on 27/03/2026 01:11:26 UTC
 <!--END_SECTION:waka-->
 
 
