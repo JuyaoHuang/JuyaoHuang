@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue?style=flat)
 
@@ -78,20 +78,20 @@ Sunday                   77 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 hrs 22 mins       ██████████████░░░░░░░░░░░   54.64 % 
-Python                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
-Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Markdown                 5 hrs 22 mins       ██████████████░░░░░░░░░░░   54.83 % 
+Python                   1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+TypeScript               38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+Text                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 50 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   10 repos            ███████████░░░░░░░░░░░░░░   45.45 % 
+Python                   11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
 TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
@@ -101,7 +101,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 16:22:33 UTC
+ Last Updated on 30/03/2026 01:15:21 UTC
 <!--END_SECTION:waka-->
 
 
