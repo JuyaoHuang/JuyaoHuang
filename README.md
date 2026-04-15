@@ -78,14 +78,14 @@ Sunday                   81 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.20 % 
-Astro                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Markdown                 2 hrs 28 mins       ███████████░░░░░░░░░░░░░░   42.51 % 
+Astro                    1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
+YAML                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+TypeScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 3 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -101,7 +101,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/04/2026 16:54:34 UTC
+ Last Updated on 15/04/2026 01:17:15 UTC
 <!--END_SECTION:waka-->
 
 
