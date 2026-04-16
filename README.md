@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 > 📦 660.7 kB Used in GitHub's Storage 
  > 
-> 🏆 364 Contributions in the Year 2026
+> 🏆 365 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -91,17 +91,17 @@ VS Code                  5 hrs 40 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   11 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Python                   12 repos            █████████████░░░░░░░░░░░░   52.17 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
 
 
 
 
- Last Updated on 16/04/2026 09:08:20 UTC
+ Last Updated on 16/04/2026 17:02:06 UTC
 <!--END_SECTION:waka-->
 
 
