@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%209%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.48%20million%20lines%20of%20code-blue?style=flat)
@@ -53,41 +51,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
-🌆 Daytime                216 commits         ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-🌃 Evening                349 commits         ████████████░░░░░░░░░░░░░   47.94 % 
-🌙 Night                  71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Tuesday                  89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Wednesday                78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Thursday                 138 commits         █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-Friday                   142 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-Saturday                 100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-Sunday                   81 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.36 % 
-Astro                    1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   25.14 % 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-
-🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -101,7 +64,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 16:41:29 UTC
+ Last Updated on 18/04/2026 01:13:07 UTC
 <!--END_SECTION:waka-->
 
 
