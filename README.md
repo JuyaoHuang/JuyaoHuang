@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-290%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -78,15 +78,15 @@ Sunday                   128 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 22 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   34.09 % 
-Python                   11 hrs 44 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Other                    9 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Vue                      7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-TypeScript               5 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Markdown                 20 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   32.36 % 
+Other                    10 hrs 6 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Python                   9 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
+Vue                      8 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+TypeScript               5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
 
 🔥 Editors: 
-VS Code                  43 hrs 34 mins      █████████████████░░░░░░░░   66.72 % 
-Unknown Editor           21 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.28 % 
+VS Code                  40 hrs 10 mins      ████████████████░░░░░░░░░   63.90 % 
+Unknown Editor           22 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   36.10 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2026 16:30:09 UTC
+ Last Updated on 27/04/2026 01:25:46 UTC
 <!--END_SECTION:waka-->
 
 
