@@ -78,15 +78,15 @@ Sunday                   152 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    11 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-Python                   7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
-Vue                      6 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Markdown                 4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-YAML                     3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Other                    8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+Python                   6 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Markdown                 3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+YAML                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Vue                      2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
 
 🔥 Editors: 
-VS Code                  36 hrs 19 mins      ████████████████████████░   95.51 % 
-Unknown Editor           1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+VS Code                  25 hrs 43 mins      ███████████████████████░░   93.77 % 
+Unknown Editor           1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/05/2026 16:42:53 UTC
+ Last Updated on 02/05/2026 01:27:22 UTC
 <!--END_SECTION:waka-->
 
 
