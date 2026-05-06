@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-301%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,9 +92,9 @@ Unknown Editor           2 hrs 56 mins       ███████░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            █████████████░░░░░░░░░░░░   52.00 % 
+Python                   12 repos            ████████████░░░░░░░░░░░░░   48.00 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
 Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2026 10:08:20 UTC
+ Last Updated on 06/05/2026 17:20:39 UTC
 <!--END_SECTION:waka-->
 
 
