@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Juyao Huang's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 240, Total Commits  (last year) : 770, Total PRs: 97, Total Issues: 66, Contributed to (last year): 8</desc>
+        <title id="titleId">Juyao Huang's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 240, Total Commits  (last year) : 768, Total PRs: 86, Total Issues: 66, Contributed to (last year): 8</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 60.6277730610323;
+        stroke-dashoffset: 63.352832418061254;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          A
+          A-
         </text>
       
         </g>
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >770</text>
+      >768</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >97</text>
+      >86</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
