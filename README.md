@@ -53,6 +53,42 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+🌆 Daytime                335 commits         ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+🌃 Evening                580 commits         █████████████░░░░░░░░░░░░   51.24 % 
+🌙 Night                  101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Tuesday                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Wednesday                91 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Thursday                 187 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Friday                   201 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Saturday                 238 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Sunday                   153 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 8 hrs 27 mins       ██████████████████░░░░░░░   71.60 % 
+Python                   1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+Batchfile                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+ActionScript             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+
+🔥 Editors: 
+Unknown Editor           7 hrs 42 mins       ████████████████░░░░░░░░░   65.18 % 
+VS Code                  4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.82 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -66,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 01:53:53 UTC
+ Last Updated on 13/05/2026 10:12:01 UTC
 <!--END_SECTION:waka-->
 
 
