@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 678.0 kB Used in GitHub's Storage 
+> 📦 678.1 kB Used in GitHub's Storage 
  > 
 > 🏆 624 Contributions in the Year 2026
  > 
@@ -78,15 +78,15 @@ Sunday                   153 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 46 mins       ████████████████████░░░░░   81.45 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 3 hrs 59 mins       ███████████████████░░░░░░   75.75 % 
+YAML                     32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Unknown Editor           5 hrs 57 mins       ████████████████░░░░░░░░░   62.44 % 
-VS Code                  3 hrs 35 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+Unknown Editor           2 hrs 50 mins       ██████████████░░░░░░░░░░░   54.12 % 
+VS Code                  2 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.88 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 17:30:51 UTC
+ Last Updated on 15/05/2026 01:54:40 UTC
 <!--END_SECTION:waka-->
 
 
