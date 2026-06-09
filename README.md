@@ -78,15 +78,15 @@ Sunday                   165 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 28 mins             ██████████████████░░░░░░░   73.45 % 
-Bash                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-BibTeX                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 26 mins             ██████████████████░░░░░░░   71.91 % 
+Bash                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+BibTeX                   4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 🔥 Editors: 
-Claude Code              22 mins             ██████████████░░░░░░░░░░░   56.87 % 
-Codex CLI                11 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-VS Code                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Claude Code              20 mins             ██████████████░░░░░░░░░░░   54.37 % 
+Codex CLI                11 mins             ████████░░░░░░░░░░░░░░░░░   30.78 % 
+VS Code                  5 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
 ```
 
 **I Mostly Code in Python** 
@@ -102,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2026 18:16:54 UTC
+ Last Updated on 09/06/2026 01:53:33 UTC
 <!--END_SECTION:waka-->
 
 
