@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-371%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -78,16 +78,16 @@ Sunday                   165 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 2 mins        ████████████████░░░░░░░░░   64.25 % 
-JSON                     2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
-Python                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Cheetah                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
-Text                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Markdown                 9 hrs 54 mins       ██████████████░░░░░░░░░░░   57.84 % 
+JSON                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Python                   2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+YAML                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Cheetah                  27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 56 mins       ██████████████████░░░░░░░   72.52 % 
-Codex CLI                1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Claude Code              8 hrs 29 mins       ████████████░░░░░░░░░░░░░   49.53 % 
+Codex CLI                6 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   37.05 % 
+VS Code                  2 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/06/2026 18:08:21 UTC
+ Last Updated on 18/06/2026 02:16:01 UTC
 <!--END_SECTION:waka-->
 
 
