@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -78,16 +78,16 @@ Sunday                   217 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.88 % 
-Python                   4 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-YAML                     3 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-JSON                     2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+Markdown                 22 hrs 27 mins      ████████████████░░░░░░░░░   62.16 % 
+Python                   5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+YAML                     3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JSON                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🔥 Editors: 
-Codex CLI                11 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.17 % 
-Claude Code              8 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.32 % 
-VS Code                  3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Claude Code              16 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
+Codex CLI                16 hrs 18 mins      ███████████░░░░░░░░░░░░░░   45.14 % 
+VS Code                  3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 17:46:55 UTC
+ Last Updated on 20/06/2026 02:04:46 UTC
 <!--END_SECTION:waka-->
 
 
