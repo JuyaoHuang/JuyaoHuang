@@ -78,16 +78,16 @@ Sunday                   217 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
-Python                   5 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-YAML                     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-TypeScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Markdown                 5 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.03 % 
+Python                   3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.08 % 
+YAML                     2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-Codex CLI                15 hrs 1 min        ████████████████████░░░░░   81.38 % 
-VS Code                  2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Claude Code              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Codex CLI                10 hrs 28 mins      █████████████████████░░░░   85.27 % 
+VS Code                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
 
 **I Mostly Code in Python** 
@@ -103,7 +103,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2026 17:46:45 UTC
+ Last Updated on 25/06/2026 02:01:53 UTC
 <!--END_SECTION:waka-->
 
 
