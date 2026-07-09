@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-382%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -78,10 +78,15 @@ Sunday                   280 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.20 % 
+YAML                     1 hr 28 mins        ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
+Python                   1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+TypeScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
 
 🔥 Editors: 
-Codex CLI                0 secs              █████████████████████████   100.00 % 
+Codex CLI                5 hrs               ████████████████████░░░░░   80.53 % 
+VS Code                  1 hr 12 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +102,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026 17:17:17 UTC
+ Last Updated on 09/07/2026 01:31:21 UTC
 <!--END_SECTION:waka-->
 
 
