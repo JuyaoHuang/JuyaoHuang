@@ -53,43 +53,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-🌆 Daytime                1037 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
-🌃 Evening                1170 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
-🌙 Night                  303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Wednesday                374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Friday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Saturday                 646 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-Sunday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 16 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   36.91 % 
-JSON                     7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-YAML                     6 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Python                   3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-TypeScript               3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-
-🔥 Editors: 
-Codex CLI                35 hrs 35 mins      ████████████████████░░░░░   81.73 % 
-VS Code                  7 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Claude Code              48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -103,7 +66,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026 17:03:24 UTC
+ Last Updated on 16/07/2026 01:20:36 UTC
 <!--END_SECTION:waka-->
 
 
