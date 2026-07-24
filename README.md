@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-444%20hrs%2024%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.96%20million%20lines%20of%20code-blue?style=flat)
@@ -56,18 +54,18 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-🌆 Daytime                1037 commits        █████████░░░░░░░░░░░░░░░░   37.41 % 
-🌃 Evening                1170 commits        ███████████░░░░░░░░░░░░░░   42.21 % 
+🌞 Morning                263 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+🌆 Daytime                1037 commits        █████████░░░░░░░░░░░░░░░░   37.40 % 
+🌃 Evening                1170 commits        ███████████░░░░░░░░░░░░░░   42.19 % 
 🌙 Night                  303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Tuesday                  145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 Wednesday                374 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Friday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
 Saturday                 646 commits         ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
 Sunday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
@@ -97,7 +95,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 10:05:12 UTC
+ Last Updated on 24/07/2026 17:19:21 UTC
 <!--END_SECTION:waka-->
 
 
