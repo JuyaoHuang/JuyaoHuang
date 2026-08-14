@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2046%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-229%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -58,21 +58,21 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-🌆 Daytime                1086 commits        █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌃 Evening                1215 commits        ███████████░░░░░░░░░░░░░░   42.07 % 
-🌙 Night                  312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+🌞 Morning                274 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+🌆 Daytime                1086 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                1215 commits        ███████████░░░░░░░░░░░░░░   42.09 % 
+🌙 Night                  312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Tuesday                  143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Wednesday                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Monday                   409 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Tuesday                  142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Wednesday                383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 Thursday                 440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Saturday                 675 commits         ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Sunday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Friday                   422 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+Saturday                 675 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Sunday                   416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 ```
 
 
@@ -80,16 +80,40 @@ Sunday                   416 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 42 mins             ███████████░░░░░░░░░░░░░░   45.36 % 
+Astro                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
+Ezhil                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  59 mins             ████████████████░░░░░░░░░   64.28 % 
+Codex CLI                20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Claude Code              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 29 mins (95.89%)
+
+✍️ 208 lines written by AI, 2 lines written by hand (99.05% AI-written)
+
+🔤 1,138,966 Input Tokens, 81,320 Output Tokens
+
+💵 $14.99 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 30 AI Prompts
+
+Deepseek                 202 lines           ████████████████████████░   96.65 % 
+GPT                      7 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.05% of written lines came from AI
+📚 Verbose Prompter — average 1,509 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +129,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 16:43:29 UTC
+ Last Updated on 14/08/2026 00:55:25 UTC
 <!--END_SECTION:waka-->
 
 
