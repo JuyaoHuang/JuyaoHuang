@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -80,40 +80,40 @@ Sunday                   387 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 42 mins             ███████████░░░░░░░░░░░░░░   45.36 % 
-Astro                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-Ezhil                    10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Astro                    1 hr 26 mins        ████████████░░░░░░░░░░░░░   47.90 % 
+Markdown                 49 mins             ███████░░░░░░░░░░░░░░░░░░   27.75 % 
+TypeScript               19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Ezhil                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 Editors: 
-VS Code                  59 mins             ████████████████░░░░░░░░░   64.28 % 
-Codex CLI                20 mins             ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Claude Code              12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+VS Code                  2 hrs 26 mins       ████████████████████░░░░░   81.45 % 
+Codex CLI                20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Claude Code              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 29 mins (95.89%)
+⏱ AI Coding Time: 1 hr 30 mins (50.26%)
 
-✍️ 208 lines written by AI, 2 lines written by hand (99.05% AI-written)
+✍️ 208 lines written by AI, 221 lines written by hand (48.48% AI-written)
 
 🔤 1,138,966 Input Tokens, 81,320 Output Tokens
 
 💵 $14.99 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 30 AI Prompts
+🧠 10 AI Sessions, 32 AI Prompts
 
 Deepseek                 202 lines           ████████████████████████░   96.65 % 
 GPT                      7 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📚 Verbose Prompter — average 1,509 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.95% of changed lines were hand-edited
+⚖️ Balanced with AI — 48.48% of written lines came from AI
+📄 Detailed Prompter — average 1,416 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 67.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -129,7 +129,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 16:10:44 UTC
+ Last Updated on 17/08/2026 00:31:20 UTC
 <!--END_SECTION:waka-->
 
 
