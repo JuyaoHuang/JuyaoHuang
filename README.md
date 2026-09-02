@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-442%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-235%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -80,16 +80,38 @@ Sunday                   387 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 3 hrs 25 mins       ████████████████████░░░░░   78.45 % 
+Python                   54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+ActionScript             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                3 hrs 45 mins       ██████████████████████░░░   86.11 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 hrs 21 mins (99.92%)
+
+✍️ 1,008 lines written by AI, 26 lines written by hand (97.49% AI-written)
+
+🔤 9,655,889 Input Tokens, 494,373 Output Tokens
+
+💵 $63.47 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 54 AI Prompts
+
+GPT                      1,047 lines         █████████████████████████   100.00 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.49% of written lines came from AI
+📝 Concise Prompter — average 114 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 2.6% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -105,7 +127,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 18:57:26 UTC
+ Last Updated on 02/09/2026 01:41:12 UTC
 <!--END_SECTION:waka-->
 
 
