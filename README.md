@@ -80,17 +80,34 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   6 mins              ███████████████████░░░░░░   75.59 % 
-YAML                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Python                   21 mins             ███████████████████████░░   90.64 % 
+YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.00 % 
+VS Code                  14 mins             ███████████████░░░░░░░░░░   60.22 % 
+Codex Vscode             9 mins              ██████████░░░░░░░░░░░░░░░   39.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 12 mins (51.07%)
+
+✍️ 197 lines written by AI, 116 lines written by hand (62.94% AI-written)
+
+🔤 128,102 Input Tokens, 7,363 Output Tokens
+
+💵 $0.41 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 4 AI Prompts
+
+GPT                      197 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 62.94% of written lines came from AI
+📝 Concise Prompter — average 150 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 47.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -106,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 15:02:09 UTC
+ Last Updated on 08/10/2026 20:55:29 UTC
 <!--END_SECTION:waka-->
 
 
