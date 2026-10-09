@@ -80,20 +80,20 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   21 mins             ███████████████████████░░   90.64 % 
-YAML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Python                   14 mins             ██████████████████████░░░   86.81 % 
+YAML                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 
 🔥 Editors: 
-VS Code                  14 mins             ███████████████░░░░░░░░░░   60.22 % 
-Codex Vscode             9 mins              ██████████░░░░░░░░░░░░░░░   39.78 % 
+Codex Vscode             9 mins              ██████████████░░░░░░░░░░░   56.02 % 
+VS Code                  7 mins              ███████████░░░░░░░░░░░░░░   43.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (51.07%)
+⏱ AI Coding Time: 12 mins (71.93%)
 
-✍️ 197 lines written by AI, 116 lines written by hand (62.94% AI-written)
+✍️ 197 lines written by AI, 4 lines written by hand (98.01% AI-written)
 
 🔤 128,102 Input Tokens, 7,363 Output Tokens
 
@@ -104,10 +104,10 @@ Codex Vscode             9 mins              ██████████░�
 GPT                      197 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.94% of written lines came from AI
+🤖 AI-Driven — 98.01% of written lines came from AI
 📝 Concise Prompter — average 150 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 47.88% of changed lines were hand-edited
+🚀 High AI Trust — 4.37% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 14:46:35 UTC
+ Last Updated on 09/10/2026 20:24:36 UTC
 <!--END_SECTION:waka-->
 
 
