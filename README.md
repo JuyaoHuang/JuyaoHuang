@@ -94,19 +94,18 @@ VS Code                  5 mins              █████████░░�
 
 ✍️ 197 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 153,350 Input Tokens, 8,808 Output Tokens
+🔤 128,102 Input Tokens, 7,363 Output Tokens
 
-💵 $0.52 Estimated AI Cost This Week
+💵 $0.41 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
 GPT                      197 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 229 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 150 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 2.48% of changed lines were hand-edited
 ```
 
@@ -123,7 +122,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 13:10:02 UTC
+ Last Updated on 14/10/2026 19:49:06 UTC
 <!--END_SECTION:waka-->
 
 
