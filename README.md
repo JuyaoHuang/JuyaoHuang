@@ -80,35 +80,34 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 5 mins        ███████████████████████░░   93.30 % 
-Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other                    3 hrs 3 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 59 mins       ███████████████████████░░   90.47 % 
-Codex Vscode             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Codex CLI                2 hrs 47 mins       ███████████████████████░░   91.23 % 
+Codex Vscode             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 3 hrs 3 mins (100.0%)
 
-✍️ 249 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,451,732 Input Tokens, 118,656 Output Tokens
+🔤 3,386,710 Input Tokens, 110,712 Output Tokens
 
-💵 $50.45 Estimated AI Cost This Week
+💵 $50.21 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 65 AI Prompts
+🧠 11 AI Sessions, 58 AI Prompts
 
-GPT                      249 lines           █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 194 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 19:06:54 UTC
+ Last Updated on 17/10/2026 01:50:33 UTC
 <!--END_SECTION:waka-->
 
 
