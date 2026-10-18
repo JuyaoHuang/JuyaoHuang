@@ -80,33 +80,33 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    3 hrs 3 mins        █████████████████████████   100.00 % 
+Other                    19 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 47 mins       ███████████████████████░░   91.23 % 
-Codex Vscode             14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Codex Vscode             11 mins             ██████████████░░░░░░░░░░░   57.97 % 
+Codex CLI                8 mins              ██████████░░░░░░░░░░░░░░░   41.68 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 3 mins (100.0%)
+⏱ AI Coding Time: 19 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,386,710 Input Tokens, 110,712 Output Tokens
+🔤 869,603 Input Tokens, 7,853 Output Tokens
 
-💵 $50.21 Estimated AI Cost This Week
+💵 $9.47 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 58 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 239 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -123,7 +123,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 18:01:24 UTC
+ Last Updated on 18/10/2026 01:48:46 UTC
 <!--END_SECTION:waka-->
 
 
