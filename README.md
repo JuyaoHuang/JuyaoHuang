@@ -80,33 +80,31 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    19 mins             █████████████████████████   100.00 % 
+Other                    8 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             11 mins             ██████████████░░░░░░░░░░░   57.97 % 
-Codex CLI                8 mins              ██████████░░░░░░░░░░░░░░░   41.68 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Codex CLI                8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (100.0%)
+⏱ AI Coding Time: 8 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 869,603 Input Tokens, 7,853 Output Tokens
+🔤 783,430 Input Tokens, 2,182 Output Tokens
 
-💵 $9.47 Estimated AI Cost This Week
+💵 $8.15 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 2 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 239 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📄 Detailed Prompter — average 566 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
@@ -123,7 +121,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 18:20:25 UTC
+ Last Updated on 19/10/2026 02:05:55 UTC
 <!--END_SECTION:waka-->
 
 
