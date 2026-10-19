@@ -80,32 +80,37 @@ Sunday                   388 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    8 mins              █████████████████████████   100.00 % 
+Markdown                 1 hr 12 mins        ██████████████░░░░░░░░░░░   57.26 % 
+Python                   38 mins             ████████░░░░░░░░░░░░░░░░░   30.05 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Codex CLI                8 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 56 mins        ███████████████████████░░   91.07 % 
+Codex CLI                11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 1 min (95.12%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 332 lines written by AI, 3 lines written by hand (99.1% AI-written)
 
-🔤 783,430 Input Tokens, 2,182 Output Tokens
+🔤 1,428,015 Input Tokens, 151,289 Output Tokens
 
-💵 $8.15 Estimated AI Cost This Week
+💵 $13.80 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 30 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      333 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 566 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 99.1% of written lines came from AI
+📝 Concise Prompter — average 121 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🚀 High AI Trust — 1.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -121,7 +126,7 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 15:05:34 UTC
+ Last Updated on 19/10/2026 20:47:43 UTC
 <!--END_SECTION:waka-->
 
 
